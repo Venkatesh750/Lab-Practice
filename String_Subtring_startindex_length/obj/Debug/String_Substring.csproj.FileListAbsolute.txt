@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\String_Substring\String_Substring\bin\Debug\String_Substring.exe.config
+C:\Users\ELCOT\source\repos\String_Substring\String_Substring\bin\Debug\String_Substring.exe
+C:\Users\ELCOT\source\repos\String_Substring\String_Substring\bin\Debug\String_Substring.pdb
+C:\Users\ELCOT\source\repos\String_Substring\String_Substring\obj\Debug\String_Substring.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\String_Substring\String_Substring\obj\Debug\String_Substring.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\String_Substring\String_Substring\obj\Debug\String_Substring.exe
+C:\Users\ELCOT\source\repos\String_Substring\String_Substring\obj\Debug\String_Substring.pdb
