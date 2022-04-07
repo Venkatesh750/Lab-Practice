@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Quadriatic_equation\Quadriatic_equation\bin\Debug\Quadriatic_equation.exe.config
+C:\Users\ELCOT\source\repos\Quadriatic_equation\Quadriatic_equation\bin\Debug\Quadriatic_equation.exe
+C:\Users\ELCOT\source\repos\Quadriatic_equation\Quadriatic_equation\bin\Debug\Quadriatic_equation.pdb
+C:\Users\ELCOT\source\repos\Quadriatic_equation\Quadriatic_equation\obj\Debug\Quadriatic_equation.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Quadriatic_equation\Quadriatic_equation\obj\Debug\Quadriatic_equation.exe
+C:\Users\ELCOT\source\repos\Quadriatic_equation\Quadriatic_equation\obj\Debug\Quadriatic_equation.pdb
