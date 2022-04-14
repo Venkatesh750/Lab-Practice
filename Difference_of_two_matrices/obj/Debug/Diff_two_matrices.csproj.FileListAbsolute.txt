@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Diff_two_matrices\Diff_two_matrices\bin\Debug\Diff_two_matrices.exe.config
+C:\Users\ELCOT\source\repos\Diff_two_matrices\Diff_two_matrices\bin\Debug\Diff_two_matrices.exe
+C:\Users\ELCOT\source\repos\Diff_two_matrices\Diff_two_matrices\bin\Debug\Diff_two_matrices.pdb
+C:\Users\ELCOT\source\repos\Diff_two_matrices\Diff_two_matrices\obj\Debug\Diff_two_matrices.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Diff_two_matrices\Diff_two_matrices\obj\Debug\Diff_two_matrices.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Diff_two_matrices\Diff_two_matrices\obj\Debug\Diff_two_matrices.exe
+C:\Users\ELCOT\source\repos\Diff_two_matrices\Diff_two_matrices\obj\Debug\Diff_two_matrices.pdb
