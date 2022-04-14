@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\Max_Min_Array\Max_Min_Array\bin\Debug\Max_Min_Array.exe.config
+C:\Users\ELCOT\source\repos\Max_Min_Array\Max_Min_Array\bin\Debug\Max_Min_Array.exe
+C:\Users\ELCOT\source\repos\Max_Min_Array\Max_Min_Array\bin\Debug\Max_Min_Array.pdb
+C:\Users\ELCOT\source\repos\Max_Min_Array\Max_Min_Array\obj\Debug\Max_Min_Array.csprojAssemblyReference.cache
+C:\Users\ELCOT\source\repos\Max_Min_Array\Max_Min_Array\obj\Debug\Max_Min_Array.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Max_Min_Array\Max_Min_Array\obj\Debug\Max_Min_Array.exe
+C:\Users\ELCOT\source\repos\Max_Min_Array\Max_Min_Array\obj\Debug\Max_Min_Array.pdb
